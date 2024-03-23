@@ -1,5 +1,5 @@
 > [!WARNING]
-> This project has been archived as we are working on a rewrite of it in Rust! See [`simulo_bevy`](https://github.com/Carroted/simulo_bevy).
+this project was abandoned (real real) and I don't plan on making it better or anything lol I just exist
 
 # ![Simulo](https://cdn.discordapp.com/attachments/930244062156558348/1120536366028165180/banner.png)
 
